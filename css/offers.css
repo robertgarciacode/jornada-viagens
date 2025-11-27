@@ -11,8 +11,10 @@
 
 .card header {
   display: block;
+  padding: 0;
   background-color: transparent;
   position: static;
+  margin-bottom: 24px;
 }
 .card header p {
   font-size: 20px;
